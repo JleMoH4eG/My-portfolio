@@ -16,6 +16,6 @@ Repository: https://github.com/JleMoH4eG/PROFI-DRESS.git
 
 Web-site: https://jlemoh4eg.github.io/PROFI-DRESS/
 # gid.group
-Repository: https://github.com/JleMoH4eG/PROFI-DRESS.git
+Repository: https://github.com/JleMoH4eG/gid.group
 
 Web-site: https://jlemoh4eg.github.io/gid.group/
